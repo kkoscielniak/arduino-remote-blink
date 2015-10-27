@@ -1,0 +1,24 @@
+{
+  "name": "arduino-remote-blink",
+  "version": "0.0.1",
+  "description": "remote blink sketch for arduino using cylon.js and pebble",
+  "main": "app.js",
+  "dependencies": {
+    "cylon": "^1.2.0",
+    "cylon-firmata": "^0.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkoscielniak/arduino-remote-blink.git"
+  },
+  "author": "Krystian Kościelniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkoscielniak/arduino-remote-blink/issues"
+  },
+  "homepage": "https://github.com/kkoscielniak/arduino-remote-blink#readme"
+}
