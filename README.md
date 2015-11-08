@@ -6,3 +6,6 @@ desktop lamp remote using arduino, node.js and cylon.js, controlled by Pebble (S
 it's something between proof of concept and home-automation trial. Writtne for fun :-)  
   
 At some point it'll be simple home-automation tool controlled by my Pebble Smartwatch. 
+
+## what is /api/baby? 
+it's a little prank to scare new guests in our flat :-)

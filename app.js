@@ -1,6 +1,8 @@
 var express = require('express'),
     bodyParser = require('body-parser'),
-    app = express();
+    app = express(),
+
+    shell = require('./lib/shell');
 
 var router = require('./lib/router');
 

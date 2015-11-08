@@ -4,10 +4,12 @@
   "description": "remote blink sketch for arduino using cylon.js and pebble",
   "main": "app.js",
   "dependencies": {
+    "afplay": "^1.0.1",
     "body-parser": "^1.14.1",
     "cylon": "^1.2.0",
     "cylon-firmata": "^0.23.0",
     "express": "^4.13.3",
+    "serialport": "^2.0.2",
     "shelljs": "^0.5.3"
   },
   "devDependencies": {},
